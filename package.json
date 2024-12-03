@@ -4,7 +4,7 @@
 	"description": "https://t.me/gungho0619",
 	"main": "index.js",
 	"scripts": {
-		"start": "ts-node jitoPool.ts"
+		"dev": "ts-node jitoPool.ts"
 	},
 	"author": "https://t.me/gungho0619",
 	"license": "ISC",
